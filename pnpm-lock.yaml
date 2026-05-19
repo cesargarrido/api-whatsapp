@@ -254,26 +254,17 @@ packages:
   '@protobufjs/base64@1.1.2':
     resolution: {integrity: sha512-AZkcAA5vnN/v4PDqKyMR5lx7hZttPDgClv83E//FMNhR2TMcLUhfRUBHCmSl0oi9zMgDDqRUJkSxO3wm85+XLg==}
 
-  '@protobufjs/codegen@2.0.4':
-    resolution: {integrity: sha512-YyFaikqM5sH0ziFZCN3xDC7zeGaB/d0IUb9CATugHWbd1FRFwWwt4ld4OYMPWu5a3Xe01mGAULCdqhMlPl29Jg==}
-
   '@protobufjs/codegen@2.0.5':
     resolution: {integrity: sha512-zgXFLzW3Ap33e6d0Wlj4MGIm6Ce8O89n/apUaGNB/jx+hw+ruWEp7EwGUshdLKVRCxZW12fp9r40E1mQrf/34g==}
 
   '@protobufjs/eventemitter@1.1.0':
     resolution: {integrity: sha512-j9ednRT81vYJ9OfVuXG6ERSTdEL1xVsNgqpkxMsbIabzSo3goCjDIveeGv5d03om39ML71RdmrGNjG5SReBP/Q==}
 
-  '@protobufjs/fetch@1.1.0':
-    resolution: {integrity: sha512-lljVXpqXebpsijW71PZaCYeIcE5on1w5DlQy5WH6GLbFryLUrBD4932W/E2BSpfRJWseIL4v/KPgBFxDOIdKpQ==}
-
   '@protobufjs/fetch@1.1.1':
     resolution: {integrity: sha512-GpptLrs57adMSuHi3VNj0mAF8dwh36LMaYF6XyJ6JMWlVsc+t42tm1HSEDmOs3A8fC9yyeisgLhsTVQokOZ0zw==}
 
   '@protobufjs/float@1.0.2':
     resolution: {integrity: sha512-Ddb+kVXlXst9d+R9PfTIxh1EdNkgoRe5tOX6t01f1lYWOvJnSPDBlG241QLzcyPdoNTsblLUdujGSE4RzrTZGQ==}
-
-  '@protobufjs/inquire@1.1.0':
-    resolution: {integrity: sha512-kdSefcPdruJiFMVSbn801t4vFK7KB/5gd2fYvrxhuJYg8ILrmn9SKSX2tZdV6V+ksulWqS7aXjBcRXl3wHoD9Q==}
 
   '@protobufjs/inquire@1.1.2':
     resolution: {integrity: sha512-pa0vFRuws4wkvaXKK1uXZMAwAX4/t8ANaJo45iw/oQHNQ9q5xUzwgFmVJGXiga2BeN+zpX7Vf9vmsiIa2J+MUw==}
@@ -318,9 +309,6 @@ packages:
 
   '@types/node@22.13.5':
     resolution: {integrity: sha512-+lTU0PxZXn0Dr1NBtC7Y8cR21AJr87dLLU953CWA6pMxxv/UDc7jYAY90upcrie1nRcD6XNG5HOYEDtgW5TxAg==}
-
-  '@types/node@25.9.0':
-    resolution: {integrity: sha512-AOQwYUNolgy3VosiRqXrACUXTN8nJUtPl7FJXMqZVyxiiCLhQuG3jXKvCS1ALr+Y2OmZhzzLVlYPEqJaiqkaJQ==}
 
   '@types/polka@0.5.7':
     resolution: {integrity: sha512-TH8CDXM8zoskPCNmWabtK7ziGv9Q21s4hMZLVYK5HFEfqmGXBqq/Wgi7jNELWXftZK/1J/9CezYa06x1RKeQ+g==}
@@ -1018,9 +1006,6 @@ packages:
   lodash@4.18.1:
     resolution: {integrity: sha512-dMInicTPVE8d1e5otfwmmjlxkZoUpiVLwyeTdUsi/Caj/gfzzblBcCE5sRHV/AsjuCmxWrte2TNGSYuCeCq+0Q==}
 
-  long@5.3.1:
-    resolution: {integrity: sha512-ka87Jz3gcx/I7Hal94xaN2tZEOPoUOEVftkQqZx2EeQRN7LGdfLlI3FvZ+7WDplm+vK2Urx9ULrvSowtdCieng==}
-
   long@5.3.2:
     resolution: {integrity: sha512-mNAgZ1GmyNhD7AuqnTG3/VQ26o760+ZYBPKjPvugO8+nLbYfX6TVpJPseBvopbdY+qpZ/lKUnmEc1LeZYS3QAA==}
 
@@ -1146,10 +1131,6 @@ packages:
   promise-coalesce@1.1.2:
     resolution: {integrity: sha512-zLaJ9b8hnC564fnJH6NFSOGZYYdzrAJn2JUUIwzoQb32fG2QAakpDNM+CZo1km6keXkRXRM+hml1BFAPVnPkxg==}
     engines: {node: '>=16'}
-
-  protobufjs@7.4.0:
-    resolution: {integrity: sha512-mRUWCc3KUU4w1jU8sGxICXH/gNS94DvI1gxqDvBzhj1JpcsimQkYiOJfwsPUykUI5ZaspFbSgmBLER8IrQ3tqw==}
-    engines: {node: '>=12.0.0'}
 
   protobufjs@7.6.0:
     resolution: {integrity: sha512-LtESOsMPTZgyYtwxhvdgdjGL0HmXEaRA/hVD6sol4zA60hVXXXP/SGmxnqDbgGE8gy7pYex7cym+5vYPcmaXBQ==}
@@ -1311,9 +1292,6 @@ packages:
 
   undici-types@6.20.0:
     resolution: {integrity: sha512-Ny6QZ2Nju20vw1SRHe3d9jVu6gJ+4e3+MMpqu7pqE5HT6WsTSlce++GQmK5UXS8mzV8DSYHrQH+Xrf2jVcuKNg==}
-
-  undici-types@7.24.6:
-    resolution: {integrity: sha512-WRNW+sJgj5OBN4/0JpHFqtqzhpbnV0GuB+OozA9gCL7a993SmU+1JBZCzLNxYsbMfIeDL+lTsphD5jN5N+n0zg==}
 
   uri-js@4.4.1:
     resolution: {integrity: sha512-7rKUyy33Q1yc98pQ1DAmLtwX109F7TIfWlW1Ydo8Wl1ii1SeHieeh0HHfPeL2fMXK6z0s8ecKs9frCuLJvndBg==}
@@ -1571,24 +1549,15 @@ snapshots:
 
   '@protobufjs/base64@1.1.2': {}
 
-  '@protobufjs/codegen@2.0.4': {}
-
   '@protobufjs/codegen@2.0.5': {}
 
   '@protobufjs/eventemitter@1.1.0': {}
-
-  '@protobufjs/fetch@1.1.0':
-    dependencies:
-      '@protobufjs/aspromise': 1.1.2
-      '@protobufjs/inquire': 1.1.0
 
   '@protobufjs/fetch@1.1.1':
     dependencies:
       '@protobufjs/aspromise': 1.1.2
 
   '@protobufjs/float@1.0.2': {}
-
-  '@protobufjs/inquire@1.1.0': {}
 
   '@protobufjs/inquire@1.1.2': {}
 
@@ -1636,10 +1605,6 @@ snapshots:
   '@types/node@22.13.5':
     dependencies:
       undici-types: 6.20.0
-
-  '@types/node@25.9.0':
-    dependencies:
-      undici-types: 7.24.6
 
   '@types/polka@0.5.7':
     dependencies:
@@ -1789,7 +1754,7 @@ snapshots:
       music-metadata: 7.14.0
       node-cache: 5.1.2
       pino: 7.11.0
-      protobufjs: 7.4.0
+      protobufjs: 7.6.0
       uuid: 10.0.0
       ws: 8.20.1
     transitivePeerDependencies:
@@ -2354,8 +2319,6 @@ snapshots:
 
   lodash@4.18.1: {}
 
-  long@5.3.1: {}
-
   long@5.3.2: {}
 
   lru-cache@10.4.3: {}
@@ -2482,21 +2445,6 @@ snapshots:
 
   promise-coalesce@1.1.2: {}
 
-  protobufjs@7.4.0:
-    dependencies:
-      '@protobufjs/aspromise': 1.1.2
-      '@protobufjs/base64': 1.1.2
-      '@protobufjs/codegen': 2.0.4
-      '@protobufjs/eventemitter': 1.1.0
-      '@protobufjs/fetch': 1.1.0
-      '@protobufjs/float': 1.0.2
-      '@protobufjs/inquire': 1.1.0
-      '@protobufjs/path': 1.1.2
-      '@protobufjs/pool': 1.1.0
-      '@protobufjs/utf8': 1.1.1
-      '@types/node': 22.13.5
-      long: 5.3.1
-
   protobufjs@7.6.0:
     dependencies:
       '@protobufjs/aspromise': 1.1.2
@@ -2509,7 +2457,7 @@ snapshots:
       '@protobufjs/path': 1.1.2
       '@protobufjs/pool': 1.1.0
       '@protobufjs/utf8': 1.1.1
-      '@types/node': 25.9.0
+      '@types/node': 22.13.5
       long: 5.3.2
 
   proxy-from-env@2.1.0: {}
@@ -2665,8 +2613,6 @@ snapshots:
   typescript@5.7.3: {}
 
   undici-types@6.20.0: {}
-
-  undici-types@7.24.6: {}
 
   uri-js@4.4.1:
     dependencies:
